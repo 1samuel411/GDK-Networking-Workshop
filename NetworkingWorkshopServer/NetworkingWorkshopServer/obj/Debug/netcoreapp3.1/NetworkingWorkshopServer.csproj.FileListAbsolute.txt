@@ -1,0 +1,13 @@
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\bin\Debug\netcoreapp3.1\NetworkingWorkshopServer.exe
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\bin\Debug\netcoreapp3.1\NetworkingWorkshopServer.deps.json
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\bin\Debug\netcoreapp3.1\NetworkingWorkshopServer.runtimeconfig.json
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\bin\Debug\netcoreapp3.1\NetworkingWorkshopServer.runtimeconfig.dev.json
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\bin\Debug\netcoreapp3.1\NetworkingWorkshopServer.dll
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\bin\Debug\netcoreapp3.1\NetworkingWorkshopServer.pdb
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\obj\Debug\netcoreapp3.1\NetworkingWorkshopServer.csprojAssemblyReference.cache
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\obj\Debug\netcoreapp3.1\NetworkingWorkshopServer.AssemblyInfoInputs.cache
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\obj\Debug\netcoreapp3.1\NetworkingWorkshopServer.AssemblyInfo.cs
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\obj\Debug\netcoreapp3.1\NetworkingWorkshopServer.csproj.CoreCompileInputs.cache
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\obj\Debug\netcoreapp3.1\NetworkingWorkshopServer.dll
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\obj\Debug\netcoreapp3.1\NetworkingWorkshopServer.pdb
+D:\Games\Workshops\NetworkingWS\NetworkingWorkshopServer\NetworkingWorkshopServer\obj\Debug\netcoreapp3.1\NetworkingWorkshopServer.genruntimeconfig.cache
