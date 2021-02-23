@@ -5,5 +5,7 @@ This workshop covers how to setup a server as a .NET Core Console Application an
 
 View the full video here, https://www.youtube.com/watch?v=hDLMffSVyvk&feature=youtu.be&ab_channel=GameDevKnights.
 
+![Image](http://samuelarminana.com/u/19598f952-66e8-4413-b24b-c224b54e0d9b.png)
 
-Dark Rift 2 provided us with a Unity Asset Store voucher code for his Dark Rift 2 Pro asset. https://www.darkriftnetworking.com/darkrift2
+
+*Dark Rift 2 provided the workshop a Unity Asset Store voucher code for his Dark Rift 2 Pro asset. https://www.darkriftnetworking.com/darkrift2*
